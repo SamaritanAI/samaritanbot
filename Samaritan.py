@@ -82,5 +82,5 @@ async def spam(ctx, count: int, *, input: commands.clean_content):
 
 
 
-os.environ.get("TOKEN")
+bot.run(os.environ.get("TOKEN"))
 
