@@ -81,6 +81,6 @@ async def spam(ctx, count: int, *, input: commands.clean_content):
 
 
 
-
+bot.load_extension('libneko.extras.superuser')
 bot.run(os.environ.get("TOKEN"))
 
