@@ -64,6 +64,11 @@ async def spam(ctx, count: int, *, input: commands.clean_content):
 
 
 
+@bot.listen('on_ready')
+@bot.listen('on_connect')
+async def get_owner():
+    app_info = await bot.application_info()
+    bot.owner_id = 331511078246678540
 
 
 
@@ -79,8 +84,6 @@ async def spam(ctx, count: int, *, input: commands.clean_content):
 
 
 
-
-bot.owner_id = 331511078246678540
 bot.load_extension('libneko.extras.superuser')
 bot.run(os.environ.get("TOKEN"))
 
