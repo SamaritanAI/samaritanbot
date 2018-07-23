@@ -57,7 +57,7 @@ async def spam(ctx, count: int, *, input: commands.clean_content):
     for i in range(count):
         await ctx.send(input)
         await asyncio.sleep(1)
-        if i == 5:
+        if i == 49:
             await ctx.send("Limit Reached")
             break
         """Sends spam"""
