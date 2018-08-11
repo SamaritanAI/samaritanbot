@@ -50,6 +50,9 @@ async def help_after(ctx):
 @bot.command()
 async def spam(ctx, count: int, *, input: commands.clean_content):
     """Sends spam"""
+	if "spam" not in ctx.channel.name:
+		await ctx.send("Use this in designated spam channels")
+		return
     for i in range(count):
         await ctx.send(input)
         await asyncio.sleep(1)
