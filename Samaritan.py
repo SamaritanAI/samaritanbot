@@ -3,6 +3,7 @@ from discord.ext import commands
 import aiohttp
 import asyncio
 import os
+import random
 
 bot = commands.Bot(description="This my second bot. A lot of work will be going into it. None of this would be possible without you, Sebi. Thanks bro ^_^... I apologise for many of the errors you'll find here.", command_prefix=("s.", "S.", "samaritan.", "Samaritan."), pm_help=True)
 
@@ -68,6 +69,20 @@ async def get_owner():
     bot.owner_id = app_info.owner.id
 
 
+	
+@bot.command()
+async def flip(ctx):
+		x = random.randint(1,3)
+		if x == 1:
+			x = "Heads"
+		else:
+			x = "Tails"
+		return x
+		
+		await ctx.send(x)
+
+	
+	
 bot.load_extension('libneko.extras.superuser')
 bot.run(os.environ.get("TOKEN"))
 
