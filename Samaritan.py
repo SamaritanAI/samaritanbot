@@ -49,15 +49,15 @@ async def help_after(ctx):
     await ctx.send("Help has been DM'd.")
 
 @bot.command()
-async def spam(ctx, count: int, *, input: commands.clean_content):
-    """Sends spam"""
-	if "spam" not in ctx.channel.name:
-		await ctx.send("Use this in designated spam channels")
-		return
+async def repeat(ctx, count: int, *, input: commands.clean_content):
+    """Sends a mesage a certain number of times"""
+    if "spam" not in ctx.channel.name:
+	await ctx.send("Use this in designated spam channels")
+	return
     for i in range(count):
         await ctx.send(input)
         await asyncio.sleep(1)
-        if i == 500:
+        if i == 50:
             await ctx.send("Limit Reached")
             break
 
