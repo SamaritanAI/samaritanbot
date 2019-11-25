@@ -29,7 +29,7 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>samaritanbot/Samaritan.py at 0b93f01cfe519c3c8d3db1e20992bea847f25faf · SamaritanAI/samaritanbot</title>
+  <title>samaritanbot/Samaritan.py at 8c2190f0dccf59a573a9d09dd72a870e5d6d6fae · SamaritanAI/samaritanbot</title>
     <meta name="description" content="Contribute to SamaritanAI/samaritanbot development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
@@ -39,10 +39,10 @@
     <meta property="og:image" content="https://avatars3.githubusercontent.com/u/33179496?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="SamaritanAI/samaritanbot" /><meta property="og:url" content="https://github.com/SamaritanAI/samaritanbot" /><meta property="og:description" content="Contribute to SamaritanAI/samaritanbot development by creating an account on GitHub." />
 
   <link rel="assets" href="https://github.githubassets.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6NDcxNjE3MDM2OjBkZjkzN2Q4ODEyZDg3M2RiODliNWYyYWQ4MDAxNWNlNjBiMWIwOGY0MDI0OGUwNjU5NjJkZmE2ZTNhYWU3ZDQ=--832e9f57ed1daa013784a8a0d4d8d281cd8b1251">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6NDcxNjE3MDM2OmM4MmUyOTI1MjAwZTJmY2JjYTY5NzdmZTBmNTNkZTgyZGVlZWY4ZTZhMDEwZGQ2ZThmZTgxOTcxOGViNTdlM2Q=--b42fda545de56728b0d343efb07e066bfa925afe">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
-    <meta name="request-id" content="2346:370F9:4D0025:71CE3B:5DDBCFE9" data-pjax-transient>
+    <meta name="request-id" content="234B:383D0:D608D:13B86E:5DDBD2CD" data-pjax-transient>
 
 
   
@@ -53,7 +53,7 @@
     <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
 
-    <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="2346:370F9:4D0025:71CE3B:5DDBCFE9" /><meta name="octolytics-dimension-region_edge" content="ams" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-dimension-ga_id" content="" class="js-octo-ga-id" /><meta name="octolytics-dimension-visitor_id" content="7928252241180642645" /><meta name="octolytics-actor-id" content="33179496" /><meta name="octolytics-actor-login" content="SamaritanAI" /><meta name="octolytics-actor-hash" content="4942758f5074ac5458fa5906fc05dd18ce912b3b7bb513a3ac2c1be3639815c1" />
+    <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="234B:383D0:D608D:13B86E:5DDBD2CD" /><meta name="octolytics-dimension-region_edge" content="ams" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-dimension-ga_id" content="" class="js-octo-ga-id" /><meta name="octolytics-dimension-visitor_id" content="7928252241180642645" /><meta name="octolytics-actor-id" content="33179496" /><meta name="octolytics-actor-login" content="SamaritanAI" /><meta name="octolytics-actor-hash" content="4942758f5074ac5458fa5906fc05dd18ce912b3b7bb513a3ac2c1be3639815c1" />
 
 <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
 
@@ -74,7 +74,7 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="Zjc2MTQwMDFiMzJmNmI3M2MyM2I1ZjgwZjUwZTgzZTFkM2U3MzUwOWQxNTcxZjc2M2RjOTE1MDlkNzA3YWViNHx7InJlbW90ZV9hZGRyZXNzIjoiMTU2LjAuMjI0LjE1NiIsInJlcXVlc3RfaWQiOiIyMzQ2OjM3MEY5OjREMDAyNTo3MUNFM0I6NUREQkNGRTkiLCJ0aW1lc3RhbXAiOjE1NzQ2ODY3MDUsImhvc3QiOiJnaXRodWIuY29tIn0=">
+      <meta name="js-proxy-site-detection-payload" content="MDczZDU1OWE2MWE0NzJhZDcyMWM4YWRlMjQyODQxNmU2MzRkMjAwZjY4MDgxODkyOTFiYjJmN2U5ZTk0ZjEyZHx7InJlbW90ZV9hZGRyZXNzIjoiMTU2LjAuMjI0LjE1NiIsInJlcXVlc3RfaWQiOiIyMzRCOjM4M0QwOkQ2MDhEOjEzQjg2RTo1RERCRDJDRCIsInRpbWVzdGFtcCI6MTU3NDY4NzQ0NCwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
 
     <meta name="enabled-features" content="LAUNCH_PROJECT,MARKETPLACE_FEATURED_BLOG_POSTS,MARKETPLACE_INVOICED_BILLING,MARKETPLACE_SOCIAL_PROOF_CUSTOMERS,MARKETPLACE_TRENDING_SOCIAL_PROOF,MARKETPLACE_RECOMMENDATIONS,MARKETPLACE_PENDING_INSTALLATIONS,NOTIFY_ON_BLOCK,RELATED_ISSUES,GHE_CLOUD_TRIAL">
 
@@ -83,14 +83,14 @@
   <meta http-equiv="x-pjax-version" content="4fad551e5c3a918d1469899bc3e18f65">
   
 
-      <link href="https://github.com/SamaritanAI/samaritanbot/commits/0b93f01cfe519c3c8d3db1e20992bea847f25faf.atom" rel="alternate" title="Recent Commits to samaritanbot:0b93f01cfe519c3c8d3db1e20992bea847f25faf" type="application/atom+xml">
+      <link href="https://github.com/SamaritanAI/samaritanbot/commits/8c2190f0dccf59a573a9d09dd72a870e5d6d6fae.atom" rel="alternate" title="Recent Commits to samaritanbot:8c2190f0dccf59a573a9d09dd72a870e5d6d6fae" type="application/atom+xml">
 
   <meta name="go-import" content="github.com/SamaritanAI/samaritanbot git https://github.com/SamaritanAI/samaritanbot.git">
 
   <meta name="octolytics-dimension-user_id" content="33179496" /><meta name="octolytics-dimension-user_login" content="SamaritanAI" /><meta name="octolytics-dimension-repository_id" content="141920366" /><meta name="octolytics-dimension-repository_nwo" content="SamaritanAI/samaritanbot" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="141920366" /><meta name="octolytics-dimension-repository_network_root_nwo" content="SamaritanAI/samaritanbot" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="true" />
 
 
-    <link rel="canonical" href="https://github.com/SamaritanAI/samaritanbot/blob/0b93f01cfe519c3c8d3db1e20992bea847f25faf/Samaritan.py" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/SamaritanAI/samaritanbot/blob/8c2190f0dccf59a573a9d09dd72a870e5d6d6fae/Samaritan.py" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -164,7 +164,7 @@
           aria-autocomplete="list"
           aria-controls="jump-to-results"
           aria-label="Search or jump to…"
-          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=D59dZ1SjBh2WfQaFzn9ypEtq5WxXUHYhTNSjPRCYl7ObQMVh//tWn98I97d1dqqRs0DA3zjsyeYvm44vMr+D6w=="
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=ChkJE4LZFGDxvKwqCcSSXEVNPuHy1lZstiaQ5/8pyXyexpEVKYFE4rjJXRiyzUppvWcbUp1q6avVab313Q7dJA=="
           spellcheck="false"
           autocomplete="off"
           >
@@ -317,7 +317,7 @@
       <img class="avatar" height="20" width="20" alt="@SamaritanAI" src="https://avatars1.githubusercontent.com/u/33179496?s=60&amp;v=4" />
       SamaritanAI
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="bN7KsVMEoOEmEazn8n4m0RGtw87XUEwwVcupGJ0AlVVBnWvhB9PRXU0qV2mOoiYhrO6eZPCdiQEvaos/8dneug==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="EYCDpc5fwMgoMRttzCx8nUWVx2uByPsm11I9+nw6DHw8wyL1moixdEMK4OOw8Hxt+NaawaYFPhet8x/dEONHkw==" />
       <button type="submit" class="Header-link mr-0 mr-lg-3 py-2 py-lg-0 border-top border-lg-top-0 border-white-fade-15 d-lg-none btn-link d-block width-full text-left" data-ga-click="Header, sign out, icon:logout" style="padding-left: 2px;">
         <svg class="octicon octicon-sign-out v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 9V7H8V5h4V3l4 3-4 3zm-2 3H6V3L2 1h8v3h1V1c0-.55-.45-1-1-1H1C.45 0 0 .45 0 1v11.38c0 .39.22.73.55.91L6 16.01V13h4c.55 0 1-.45 1-1V8h-1v4z"/></svg>
         Sign out
@@ -410,7 +410,7 @@
   " data-team-hovercards-enabled>
   <details class="js-user-status-details details-reset details-overlay details-overlay-dark">
     <summary class="btn-link btn-block link-gray no-underline js-toggle-user-status-edit toggle-user-status-edit "
-      role="menuitem" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:33179496,&quot;target&quot;:&quot;EDIT_USER_STATUS&quot;,&quot;user_id&quot;:33179496,&quot;client_id&quot;:&quot;1845940072.1564757333&quot;,&quot;originating_request_id&quot;:&quot;2346:370F9:4D0025:71CE3B:5DDBCFE9&quot;,&quot;originating_url&quot;:&quot;https://github.com/SamaritanAI/samaritanbot/blob/0b93f01cfe519c3c8d3db1e20992bea847f25faf/Samaritan.py&quot;,&quot;referrer&quot;:&quot;https://github.com/SamaritanAI/samaritanbot/tree/0b93f01cfe519c3c8d3db1e20992bea847f25faf&quot;}}" data-hydro-click-hmac="30442b99ab1ba675eb6c17efe86128c6b49fd556f1b210971addd780a0f032a2">
+      role="menuitem" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:33179496,&quot;target&quot;:&quot;EDIT_USER_STATUS&quot;,&quot;user_id&quot;:33179496,&quot;client_id&quot;:&quot;1845940072.1564757333&quot;,&quot;originating_request_id&quot;:&quot;234B:383D0:D608D:13B86E:5DDBD2CD&quot;,&quot;originating_url&quot;:&quot;https://github.com/SamaritanAI/samaritanbot/blob/8c2190f0dccf59a573a9d09dd72a870e5d6d6fae/Samaritan.py&quot;,&quot;referrer&quot;:&quot;https://github.com/SamaritanAI/samaritanbot/tree/8c2190f0dccf59a573a9d09dd72a870e5d6d6fae&quot;}}" data-hydro-click-hmac="bcc14235bb3aaa135ec30d739edcf4bac94b2ee23dc3e6d74dc4425927118964">
       <div class="d-flex">
         <div class="f6 lh-condensed user-status-header
           d-inline-block v-align-middle
@@ -437,7 +437,7 @@
       </div>
     </summary>
     <details-dialog class="details-dialog rounded-1 anim-fade-in fast Box Box--overlay" role="dialog" tabindex="-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="x4DrxF7ReAilWUitcuIjSr7G8LUqXnN6JZ6XYssOgbfDUrR5U0h1ZJl6vAX5n8/aPn1wa0WyfhAknZrbtJfIuw==" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="FAgmh6xspMIOvd4m3+Hzl7aCYU6TpgaZ1KVIqVzUDI8Q2nk6ofWprjKeKo5UnB8HNjnhkPxKC/PVpkUQI01Fgw==" />
         <div class="Box-header bg-gray border-bottom p-3">
           <button class="Box-btn-octicon js-toggle-user-status-edit btn-octicon float-right" type="reset" aria-label="Close dialog" data-close-dialog>
             <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
@@ -557,17 +557,17 @@
       </li>
       <li class="dropdown-divider" role="none"></li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2019-11-25T15:28:25+02:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2019-11-25T15:40:44+02:00">
             in 30 minutes
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2019-11-25T15:58:25+02:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2019-11-25T16:10:44+02:00">
             in 1 hour
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2019-11-25T18:58:25+02:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2019-11-25T19:10:44+02:00">
             in 4 hours
           </button>
         </li>
@@ -625,10 +625,10 @@
     class="dropdown-item btn-link"
     role="menuitem"
     data-feature-preview-trigger-url="/users/SamaritanAI/feature_previews"
-    data-feature-preview-close-details="{&quot;event_type&quot;:&quot;feature_preview.clicks.close_modal&quot;,&quot;payload&quot;:{&quot;client_id&quot;:&quot;1845940072.1564757333&quot;,&quot;originating_request_id&quot;:&quot;2346:370F9:4D0025:71CE3B:5DDBCFE9&quot;,&quot;originating_url&quot;:&quot;https://github.com/SamaritanAI/samaritanbot/blob/0b93f01cfe519c3c8d3db1e20992bea847f25faf/Samaritan.py&quot;,&quot;referrer&quot;:&quot;https://github.com/SamaritanAI/samaritanbot/tree/0b93f01cfe519c3c8d3db1e20992bea847f25faf&quot;,&quot;user_id&quot;:33179496}}"
-    data-feature-preview-close-hmac="8c4758b10edb97be2ee7278e5d7471285df1a882d389e2618274f20687ebf0d5"
-    data-hydro-click="{&quot;event_type&quot;:&quot;feature_preview.clicks.open_modal&quot;,&quot;payload&quot;:{&quot;link_location&quot;:&quot;user_dropdown&quot;,&quot;client_id&quot;:&quot;1845940072.1564757333&quot;,&quot;originating_request_id&quot;:&quot;2346:370F9:4D0025:71CE3B:5DDBCFE9&quot;,&quot;originating_url&quot;:&quot;https://github.com/SamaritanAI/samaritanbot/blob/0b93f01cfe519c3c8d3db1e20992bea847f25faf/Samaritan.py&quot;,&quot;referrer&quot;:&quot;https://github.com/SamaritanAI/samaritanbot/tree/0b93f01cfe519c3c8d3db1e20992bea847f25faf&quot;,&quot;user_id&quot;:33179496}}"
-    data-hydro-click-hmac="6c200d98015554816bc328709a7e1e20a9092c2aea7d7d171aa52fe9921f359a"
+    data-feature-preview-close-details="{&quot;event_type&quot;:&quot;feature_preview.clicks.close_modal&quot;,&quot;payload&quot;:{&quot;client_id&quot;:&quot;1845940072.1564757333&quot;,&quot;originating_request_id&quot;:&quot;234B:383D0:D608D:13B86E:5DDBD2CD&quot;,&quot;originating_url&quot;:&quot;https://github.com/SamaritanAI/samaritanbot/blob/8c2190f0dccf59a573a9d09dd72a870e5d6d6fae/Samaritan.py&quot;,&quot;referrer&quot;:&quot;https://github.com/SamaritanAI/samaritanbot/tree/8c2190f0dccf59a573a9d09dd72a870e5d6d6fae&quot;,&quot;user_id&quot;:33179496}}"
+    data-feature-preview-close-hmac="99a5472b73520ea9792adefb1b609909154d75793365d4070214058504e86296"
+    data-hydro-click="{&quot;event_type&quot;:&quot;feature_preview.clicks.open_modal&quot;,&quot;payload&quot;:{&quot;link_location&quot;:&quot;user_dropdown&quot;,&quot;client_id&quot;:&quot;1845940072.1564757333&quot;,&quot;originating_request_id&quot;:&quot;234B:383D0:D608D:13B86E:5DDBD2CD&quot;,&quot;originating_url&quot;:&quot;https://github.com/SamaritanAI/samaritanbot/blob/8c2190f0dccf59a573a9d09dd72a870e5d6d6fae/Samaritan.py&quot;,&quot;referrer&quot;:&quot;https://github.com/SamaritanAI/samaritanbot/tree/8c2190f0dccf59a573a9d09dd72a870e5d6d6fae&quot;,&quot;user_id&quot;:33179496}}"
+    data-hydro-click-hmac="8a81913f66b9bcb1e7e037ca535ad4876362960dc1f95d6ec357a901b7a0f6b9"
   >
     Feature preview
   </button>
@@ -637,7 +637,7 @@
 
     <a role="menuitem" class="dropdown-item" href="https://help.github.com" data-ga-click="Header, go to help, text:help">Help</a>
     <a role="menuitem" class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings">Settings</a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="gT5olcNiw3lem42MUOWpx0rIL5kxliDhMFYffydGd02sfcnFl7WyxTWgdgIsOak394tyMxZb5dBK9z1YS588og==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="xE/TFrEUGr20mkAT3I+SxL6sBr+dW6ILm7wdAM3GEZ7pDHJG5cNrAd+hu52gU5I0A+9bFbqWZzrhHT8noR9acQ==" />
       
       <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout" role="menuitem">
         Sign out
@@ -677,10 +677,10 @@
       <p class="shelf-lead">
           Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
       </p>
-      <a class="btn btn-primary shelf-cta" target="_blank" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;READ_GUIDE&quot;,&quot;repository_id&quot;:141920366,&quot;client_id&quot;:&quot;1845940072.1564757333&quot;,&quot;originating_request_id&quot;:&quot;2346:370F9:4D0025:71CE3B:5DDBCFE9&quot;,&quot;originating_url&quot;:&quot;https://github.com/SamaritanAI/samaritanbot/blob/0b93f01cfe519c3c8d3db1e20992bea847f25faf/Samaritan.py&quot;,&quot;referrer&quot;:&quot;https://github.com/SamaritanAI/samaritanbot/tree/0b93f01cfe519c3c8d3db1e20992bea847f25faf&quot;,&quot;user_id&quot;:33179496}}" data-hydro-click-hmac="d9e52c2de1d54dafe3a302aa3f9a9dcf308b7d7b5a17a8feefbe9109c7a95c1a" href="https://guides.github.com/activities/hello-world/">Read the guide</a>
+      <a class="btn btn-primary shelf-cta" target="_blank" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;READ_GUIDE&quot;,&quot;repository_id&quot;:141920366,&quot;client_id&quot;:&quot;1845940072.1564757333&quot;,&quot;originating_request_id&quot;:&quot;234B:383D0:D608D:13B86E:5DDBD2CD&quot;,&quot;originating_url&quot;:&quot;https://github.com/SamaritanAI/samaritanbot/blob/8c2190f0dccf59a573a9d09dd72a870e5d6d6fae/Samaritan.py&quot;,&quot;referrer&quot;:&quot;https://github.com/SamaritanAI/samaritanbot/tree/8c2190f0dccf59a573a9d09dd72a870e5d6d6fae&quot;,&quot;user_id&quot;:33179496}}" data-hydro-click-hmac="827de97d16da8445c6e6293ea7e8d35ccd5b4fa878d63dba78a8be503512920b" href="https://guides.github.com/activities/hello-world/">Read the guide</a>
     </div>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="shelf-dismiss js-notice-dismiss" action="/dashboard/dismiss_bootcamp" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="delete" /><input type="hidden" name="authenticity_token" value="9iaY1BZdhmRkMnjEyW5qnJr8kUBZdEBHSjQIJ/kq5UyMy345q+oQGjTv3UD/FQWGewAf67tH8K+q0l4xlGZx8Q==" />
-      <button name="button" type="submit" class="mr-1 close-button tooltipped tooltipped-w" aria-label="Hide this notice forever" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;DISMISS_BANNER&quot;,&quot;repository_id&quot;:141920366,&quot;client_id&quot;:&quot;1845940072.1564757333&quot;,&quot;originating_request_id&quot;:&quot;2346:370F9:4D0025:71CE3B:5DDBCFE9&quot;,&quot;originating_url&quot;:&quot;https://github.com/SamaritanAI/samaritanbot/blob/0b93f01cfe519c3c8d3db1e20992bea847f25faf/Samaritan.py&quot;,&quot;referrer&quot;:&quot;https://github.com/SamaritanAI/samaritanbot/tree/0b93f01cfe519c3c8d3db1e20992bea847f25faf&quot;,&quot;user_id&quot;:33179496}}" data-hydro-click-hmac="bbe22314894acef2a5631009d6774d8e2550efd793950f70cd414df770ff31ab">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="shelf-dismiss js-notice-dismiss" action="/dashboard/dismiss_bootcamp" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="delete" /><input type="hidden" name="authenticity_token" value="duZZhkmF1UpbI2Cpf/efdC27fKxNIQfAZOFePDR01/YMC79r9DJDNAv+xS1JjPBuzEfyB68StyiEBwgqWThDSw==" />
+      <button name="button" type="submit" class="mr-1 close-button tooltipped tooltipped-w" aria-label="Hide this notice forever" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;DISMISS_BANNER&quot;,&quot;repository_id&quot;:141920366,&quot;client_id&quot;:&quot;1845940072.1564757333&quot;,&quot;originating_request_id&quot;:&quot;234B:383D0:D608D:13B86E:5DDBD2CD&quot;,&quot;originating_url&quot;:&quot;https://github.com/SamaritanAI/samaritanbot/blob/8c2190f0dccf59a573a9d09dd72a870e5d6d6fae/Samaritan.py&quot;,&quot;referrer&quot;:&quot;https://github.com/SamaritanAI/samaritanbot/tree/8c2190f0dccf59a573a9d09dd72a870e5d6d6fae&quot;,&quot;user_id&quot;:33179496}}" data-hydro-click-hmac="d49bb061991a278fa912ebba7de285aee2e2e9b553e8697e716694d05b496921">
         <svg aria-label="Hide this notice forever" class="octicon octicon-x v-align-text-top" viewBox="0 0 12 16" version="1.1" width="12" height="16" role="img"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
 </button></form>  </div>
 </div>
@@ -705,10 +705,10 @@
 
   <li>
     
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="clearfix js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="O7DazobveoMCMmywgb7p/y6IBjoj/cKmnesp4eUDBr/AHEq5sMRuyKBf027NtYd+fCRfCgyqzpspsWsEdO9wxA==" />      <input type="hidden" name="repository_id" value="141920366">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="clearfix js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="XeZznI5TzQ8Rqt6ZRp/2C4NQTeYIZCYdRBCFbaCwyuimSuPruHjZRLPHYUcKlJiK0fwU1iczKiDwSseIMVy8kw==" />      <input type="hidden" name="repository_id" value="141920366">
 
       <details class="details-reset details-overlay select-menu float-left">
-        <summary class="select-menu-button float-left btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:141920366,&quot;client_id&quot;:&quot;1845940072.1564757333&quot;,&quot;originating_request_id&quot;:&quot;2346:370F9:4D0025:71CE3B:5DDBCFE9&quot;,&quot;originating_url&quot;:&quot;https://github.com/SamaritanAI/samaritanbot/blob/0b93f01cfe519c3c8d3db1e20992bea847f25faf/Samaritan.py&quot;,&quot;referrer&quot;:&quot;https://github.com/SamaritanAI/samaritanbot/tree/0b93f01cfe519c3c8d3db1e20992bea847f25faf&quot;,&quot;user_id&quot;:33179496}}" data-hydro-click-hmac="af0c1be92fbd7195f975478727d8b835b4e608661085dd2918b93a51ce765488" data-ga-click="Repository, click Watch settings, action:blob#show">          <span data-menu-button>
+        <summary class="select-menu-button float-left btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:141920366,&quot;client_id&quot;:&quot;1845940072.1564757333&quot;,&quot;originating_request_id&quot;:&quot;234B:383D0:D608D:13B86E:5DDBD2CD&quot;,&quot;originating_url&quot;:&quot;https://github.com/SamaritanAI/samaritanbot/blob/8c2190f0dccf59a573a9d09dd72a870e5d6d6fae/Samaritan.py&quot;,&quot;referrer&quot;:&quot;https://github.com/SamaritanAI/samaritanbot/tree/8c2190f0dccf59a573a9d09dd72a870e5d6d6fae&quot;,&quot;user_id&quot;:33179496}}" data-hydro-click-hmac="ee8cde009bebe06d2bc1c4cdf3f9d4a906704e00ea43a52067ba76bef44e2bde" data-ga-click="Repository, click Watch settings, action:blob#show">          <span data-menu-button>
               <svg class="octicon octicon-eye v-align-text-bottom" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
               Watch
           </span>
@@ -779,18 +779,18 @@
 
   <li>
       <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/SamaritanAI/samaritanbot/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="NC8CwNRhSng6pQXezIUhQIbWMtEsRAxdPappUFIt3iOi0IiCIoBsedVzKeAvwOVdbTEAAZ+4/VIDy7phQrKESA==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/SamaritanAI/samaritanbot/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="+xMRafe++w7xjLzBixDG1jlAYpFVH7FOxI+ge9jEW2Vt7JsrAV/dDx5akP9oVQLL0qdQQebjQEH67nNKyFsBDg==" />
       <input type="hidden" name="context" value="repository"></input>
-      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Unstar SamaritanAI/samaritanbot" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:141920366,&quot;client_id&quot;:&quot;1845940072.1564757333&quot;,&quot;originating_request_id&quot;:&quot;2346:370F9:4D0025:71CE3B:5DDBCFE9&quot;,&quot;originating_url&quot;:&quot;https://github.com/SamaritanAI/samaritanbot/blob/0b93f01cfe519c3c8d3db1e20992bea847f25faf/Samaritan.py&quot;,&quot;referrer&quot;:&quot;https://github.com/SamaritanAI/samaritanbot/tree/0b93f01cfe519c3c8d3db1e20992bea847f25faf&quot;,&quot;user_id&quot;:33179496}}" data-hydro-click-hmac="57668493e7dce37a10bf7ddefc8589db479fde36992883b0948197e0e71b2072" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Unstar SamaritanAI/samaritanbot" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:141920366,&quot;client_id&quot;:&quot;1845940072.1564757333&quot;,&quot;originating_request_id&quot;:&quot;234B:383D0:D608D:13B86E:5DDBD2CD&quot;,&quot;originating_url&quot;:&quot;https://github.com/SamaritanAI/samaritanbot/blob/8c2190f0dccf59a573a9d09dd72a870e5d6d6fae/Samaritan.py&quot;,&quot;referrer&quot;:&quot;https://github.com/SamaritanAI/samaritanbot/tree/8c2190f0dccf59a573a9d09dd72a870e5d6d6fae&quot;,&quot;user_id&quot;:33179496}}" data-hydro-click-hmac="3e02da227736a122446e17b194d2e3272efdf931ce3f98f64c449bbe7d31ed94" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
         Unstar
 </button>        <a class="social-count js-social-count" href="/SamaritanAI/samaritanbot/stargazers"
            aria-label="1 user starred this repository">
            1
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/SamaritanAI/samaritanbot/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="mp/U0qe/3R/2/UPcq0yeaBqTRH0ysPlnS4uRU9aKCtW8McKGlGtKN3d9GUCmAAZbzSYPaMuLtGQ47FlH0u1PbQ==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/SamaritanAI/samaritanbot/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="Qdy3jeitpImERFmxQCqPUr1aOQhNo84LbwPsa0erJLxncqHZ23kzoQXEAy1NZhdhau9yHbSYgwgcZCR/Q8xhBA==" />
       <input type="hidden" name="context" value="repository"></input>
-      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Star SamaritanAI/samaritanbot" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:141920366,&quot;client_id&quot;:&quot;1845940072.1564757333&quot;,&quot;originating_request_id&quot;:&quot;2346:370F9:4D0025:71CE3B:5DDBCFE9&quot;,&quot;originating_url&quot;:&quot;https://github.com/SamaritanAI/samaritanbot/blob/0b93f01cfe519c3c8d3db1e20992bea847f25faf/Samaritan.py&quot;,&quot;referrer&quot;:&quot;https://github.com/SamaritanAI/samaritanbot/tree/0b93f01cfe519c3c8d3db1e20992bea847f25faf&quot;,&quot;user_id&quot;:33179496}}" data-hydro-click-hmac="8ceeee61de69af067713861b77fae1cf2ab9304840e7c47e2f5e535a5f040e9a" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Star SamaritanAI/samaritanbot" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:141920366,&quot;client_id&quot;:&quot;1845940072.1564757333&quot;,&quot;originating_request_id&quot;:&quot;234B:383D0:D608D:13B86E:5DDBD2CD&quot;,&quot;originating_url&quot;:&quot;https://github.com/SamaritanAI/samaritanbot/blob/8c2190f0dccf59a573a9d09dd72a870e5d6d6fae/Samaritan.py&quot;,&quot;referrer&quot;:&quot;https://github.com/SamaritanAI/samaritanbot/tree/8c2190f0dccf59a573a9d09dd72a870e5d6d6fae&quot;,&quot;user_id&quot;:33179496}}" data-hydro-click-hmac="acd4e3b34bb32876002404245aa61d1c3c0dd17fb3ec31203db98ebfe5ad06a1" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
         Star
 </button>        <a class="social-count js-social-count" href="/SamaritanAI/samaritanbot/stargazers"
            aria-label="1 user starred this repository">
@@ -949,7 +949,7 @@
   
 
 
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/SamaritanAI/samaritanbot/blob/0b93f01cfe519c3c8d3db1e20992bea847f25faf/Samaritan.py">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/SamaritanAI/samaritanbot/blob/8c2190f0dccf59a573a9d09dd72a870e5d6d6fae/Samaritan.py">Permalink</a>
 
     <!-- blob contrib key: blob_contributors:v21:eb05dde0421a9a088c4cf8b9b57c70ac -->
       
@@ -962,10 +962,10 @@
            data-hotkey="w"
            title="Switch branches or tags">
     <i>Tree:</i>
-    <span class="css-truncate-target" data-menu-button>0b93f01cfe</span>
+    <span class="css-truncate-target" data-menu-button>8c2190f0dc</span>
   </summary>
 
-  <details-menu class="select-menu-modal hx_rsm-modal position-absolute" style="z-index: 99;" src="/SamaritanAI/samaritanbot/ref-list/0b93f01cfe519c3c8d3db1e20992bea847f25faf/Samaritan.py?source_action=show&amp;source_controller=blob" preload>
+  <details-menu class="select-menu-modal hx_rsm-modal position-absolute" style="z-index: 99;" src="/SamaritanAI/samaritanbot/ref-list/8c2190f0dccf59a573a9d09dd72a870e5d6d6fae/Samaritan.py?source_action=show&amp;source_controller=blob" preload>
     <include-fragment class="select-menu-loading-overlay anim-pulse">
       <svg height="32" class="octicon octicon-octoface" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M14.7 5.34c.13-.32.55-1.59-.13-3.31 0 0-1.05-.33-3.44 1.3-1-.28-2.07-.32-3.13-.32s-2.13.04-3.13.32c-2.39-1.64-3.44-1.3-3.44-1.3-.68 1.72-.26 2.99-.13 3.31C.49 6.21 0 7.33 0 8.69 0 13.84 3.33 15 7.98 15S16 13.84 16 8.69c0-1.36-.49-2.48-1.3-3.35zM8 14.02c-3.3 0-5.98-.15-5.98-3.35 0-.76.38-1.48 1.02-2.07 1.07-.98 2.9-.46 4.96-.46 2.07 0 3.88-.52 4.96.46.65.59 1.02 1.3 1.02 2.07 0 3.19-2.68 3.35-5.98 3.35zM5.49 9.01c-.66 0-1.2.8-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.54-1.78-1.2-1.78zm5.02 0c-.66 0-1.2.79-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.53-1.78-1.2-1.78z"/></svg>
     </include-fragment>
@@ -973,7 +973,7 @@
 </details>
 
         <div class="BtnGroup flex-shrink-0 d-md-none">
-          <a href="/SamaritanAI/samaritanbot/find/0b93f01cfe519c3c8d3db1e20992bea847f25faf"
+          <a href="/SamaritanAI/samaritanbot/find/8c2190f0dccf59a573a9d09dd72a870e5d6d6fae"
                 class="js-pjax-capture-input btn btn-sm BtnGroup-item"
                 data-pjax
                 data-hotkey="t">
@@ -985,11 +985,11 @@
         </div>
       </span>
       <h2 id="blob-path" class="breadcrumb flex-auto min-width-0 text-normal flex-md-self-center ml-md-2 mr-md-3 my-2 my-md-0">
-        <span class="js-repo-root text-bold"><span class="js-path-segment"><a data-pjax="true" rel="nofollow" href="/SamaritanAI/samaritanbot/tree/0b93f01cfe519c3c8d3db1e20992bea847f25faf"><span>samaritanbot</span></a></span></span><span class="separator">/</span><strong class="final-path">Samaritan.py</strong>
+        <span class="js-repo-root text-bold"><span class="js-path-segment"><a data-pjax="true" rel="nofollow" href="/SamaritanAI/samaritanbot/tree/8c2190f0dccf59a573a9d09dd72a870e5d6d6fae"><span>samaritanbot</span></a></span></span><span class="separator">/</span><strong class="final-path">Samaritan.py</strong>
       </h2>
 
       <div class="BtnGroup flex-shrink-0 d-none d-md-inline-block">
-        <a href="/SamaritanAI/samaritanbot/find/0b93f01cfe519c3c8d3db1e20992bea847f25faf"
+        <a href="/SamaritanAI/samaritanbot/find/8c2190f0dccf59a573a9d09dd72a870e5d6d6fae"
               class="js-pjax-capture-input btn btn-sm BtnGroup-item"
               data-pjax
               data-hotkey="t">
@@ -1005,16 +1005,53 @@
 
 
 
-    <include-fragment src="/SamaritanAI/samaritanbot/contributors/0b93f01cfe519c3c8d3db1e20992bea847f25faf/Samaritan.py" class="Box Box--condensed commit-loader">
-      <div class="Box-body bg-blue-light f6">
-        Fetching contributors&hellip;
+    
+  <div class="Box Box--condensed d-flex flex-column flex-shrink-0">
+      <div class="Box-body d-flex flex-justify-between bg-blue-light flex-column flex-md-row flex-items-start flex-md-items-center">
+        <span class="pr-md-4 f6">
+          <a rel="contributor" data-skip-pjax="true" data-hovercard-type="user" data-hovercard-url="/users/Supersebi3/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Supersebi3"><img class="avatar" src="https://avatars0.githubusercontent.com/u/31341365?s=40&amp;v=4" width="20" height="20" alt="@Supersebi3" /></a>
+          <a class="text-bold link-gray-dark lh-default v-align-middle" rel="contributor" data-hovercard-type="user" data-hovercard-url="/users/Supersebi3/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Supersebi3">Supersebi3</a>
+            <span class="lh-default v-align-middle">
+              <a data-pjax="true" title="Some fixes" class="link-gray" href="/SamaritanAI/samaritanbot/commit/8c2190f0dccf59a573a9d09dd72a870e5d6d6fae">Some fixes</a>
+            </span>
+        </span>
+        <span class="d-inline-block flex-shrink-0 v-align-bottom f6 mt-2 mt-md-0">
+          <a class="pr-2 text-mono link-gray" href="/SamaritanAI/samaritanbot/commit/8c2190f0dccf59a573a9d09dd72a870e5d6d6fae" data-pjax>8c2190f</a>
+          <relative-time datetime="2018-07-27T21:10:18Z" class="no-wrap">Jul 27, 2018</relative-time>
+        </span>
       </div>
 
-      <div class="Box-body d-flex flex-items-center" >
-          <img alt="" class="loader-loading mr-2" src="https://github.githubassets.com/images/spinners/octocat-spinner-32-EAF2F5.gif" width="16" height="16" />
-        <span class="text-red h6 loader-error">Cannot retrieve contributors at this time</span>
-      </div>
-</include-fragment>
+    <div class="Box-body d-flex flex-items-center flex-auto f6 border-bottom-0 flex-wrap" >
+      <details class="details-reset details-overlay details-overlay-dark lh-default text-gray-dark float-left mr-2" id="blob_contributors_box">
+        <summary class="btn-link">
+          <span><strong>2</strong> contributors</span>
+        </summary>
+        <details-dialog
+          class="Box Box--overlay d-flex flex-column anim-fade-in fast"
+          aria-label="Users who have contributed to this file"
+          src="/SamaritanAI/samaritanbot/contributors-list/8c2190f0dccf59a573a9d09dd72a870e5d6d6fae/Samaritan.py" preload>
+          <div class="Box-header">
+            <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
+              <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+            </button>
+            <h3 class="Box-title">
+              Users who have contributed to this file
+            </h3>
+          </div>
+          <include-fragment class="octocat-spinner my-3" aria-label="Loading..."></include-fragment>
+        </details-dialog>
+      </details>
+        <span class="">
+    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/SamaritanAI/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/SamaritanAI/samaritanbot/commits/8c2190f0dccf59a573a9d09dd72a870e5d6d6fae/Samaritan.py?author=SamaritanAI">
+      <img class="avatar mr-1" src="https://avatars2.githubusercontent.com/u/33179496?s=40&amp;v=4" width="20" height="20" alt="@SamaritanAI" /> 
+</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/Supersebi3/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/SamaritanAI/samaritanbot/commits/8c2190f0dccf59a573a9d09dd72a870e5d6d6fae/Samaritan.py?author=Supersebi3">
+      <img class="avatar mr-1" src="https://avatars0.githubusercontent.com/u/31341365?s=40&amp;v=4" width="20" height="20" alt="@Supersebi3" /> 
+</a>
+</span>
+
+    </div>
+  </div>
+
 
 
 
@@ -1032,9 +1069,9 @@
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between">
 
     <div class="BtnGroup">
-      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/SamaritanAI/samaritanbot/raw/0b93f01cfe519c3c8d3db1e20992bea847f25faf/Samaritan.py">Raw</a>
-        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/SamaritanAI/samaritanbot/blame/0b93f01cfe519c3c8d3db1e20992bea847f25faf/Samaritan.py">Blame</a>
-      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/SamaritanAI/samaritanbot/commits/0b93f01cfe519c3c8d3db1e20992bea847f25faf/Samaritan.py">History</a>
+      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/SamaritanAI/samaritanbot/raw/8c2190f0dccf59a573a9d09dd72a870e5d6d6fae/Samaritan.py">Raw</a>
+        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/SamaritanAI/samaritanbot/blame/8c2190f0dccf59a573a9d09dd72a870e5d6d6fae/Samaritan.py">Blame</a>
+      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/SamaritanAI/samaritanbot/commits/8c2190f0dccf59a573a9d09dd72a870e5d6d6fae/Samaritan.py">History</a>
     </div>
 
 
@@ -1071,7 +1108,7 @@
               </p>
             </div>
             <div class="col-6 p-2 text-right code-navigation-banner-illo">
-              <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-notice-dismiss" action="/settings/dismiss-notice/aleph_code_navigation_banner" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="pXHsi2bu577O62TBqZg3ePNsQOGj6qTbeNYE+kA3MQdBKdDIG40kleb10fa5ppp6dUbgAUcrwTtelPdhh/lZqA==" />
+              <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-notice-dismiss" action="/settings/dismiss-notice/aleph_code_navigation_banner" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="bPtZNXXONtwKZ7UIF85A080ar7KpzNC6HgoYAaYmo8SIo2V2CK319yJ5AD8H8O3RSzAPUk0NtVo4SOuaYejLaw==" />
                 <button name="button" type="submit" class="btn-link link-gray" aria-label="Dismiss">
                   <svg width="20" height="20" class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
 </button></form>            </div>
@@ -1405,7 +1442,7 @@
             Copy permalink
           </clipboard-copy>
         </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/SamaritanAI/samaritanbot/blame/0b93f01cfe519c3c8d3db1e20992bea847f25faf/Samaritan.py">View git blame</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/SamaritanAI/samaritanbot/blame/8c2190f0dccf59a573a9d09dd72a870e5d6d6fae/Samaritan.py">View git blame</a></li>
           <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/SamaritanAI/samaritanbot/issues/new">Reference in new issue</a></li>
       </ul>
     </details-menu>
@@ -1429,11 +1466,11 @@
     <div class="Popover anim-scale-in js-tagsearch-popover"
      hidden
      data-tagsearch-url="/SamaritanAI/samaritanbot/find-symbols"
-     data-tagsearch-ref="0b93f01cfe519c3c8d3db1e20992bea847f25faf"
+     data-tagsearch-ref="8c2190f0dccf59a573a9d09dd72a870e5d6d6fae"
      data-tagsearch-path="Samaritan.py"
      data-tagsearch-lang="Python"
-     data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_symbol&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_symbol&quot;,&quot;repository_id&quot;:141920366,&quot;ref&quot;:&quot;0b93f01cfe519c3c8d3db1e20992bea847f25faf&quot;,&quot;language&quot;:&quot;Python&quot;,&quot;client_id&quot;:&quot;1845940072.1564757333&quot;,&quot;originating_request_id&quot;:&quot;2346:370F9:4D0025:71CE3B:5DDBCFE9&quot;,&quot;originating_url&quot;:&quot;https://github.com/SamaritanAI/samaritanbot/blob/0b93f01cfe519c3c8d3db1e20992bea847f25faf/Samaritan.py&quot;,&quot;referrer&quot;:&quot;https://github.com/SamaritanAI/samaritanbot/tree/0b93f01cfe519c3c8d3db1e20992bea847f25faf&quot;,&quot;user_id&quot;:33179496}}"
-     data-hydro-click-hmac="773dcfce40606f67e09b4d550e3f9be94c368887dbd666d574a547edb276177a">
+     data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_symbol&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_symbol&quot;,&quot;repository_id&quot;:141920366,&quot;ref&quot;:&quot;8c2190f0dccf59a573a9d09dd72a870e5d6d6fae&quot;,&quot;language&quot;:&quot;Python&quot;,&quot;client_id&quot;:&quot;1845940072.1564757333&quot;,&quot;originating_request_id&quot;:&quot;234B:383D0:D608D:13B86E:5DDBD2CD&quot;,&quot;originating_url&quot;:&quot;https://github.com/SamaritanAI/samaritanbot/blob/8c2190f0dccf59a573a9d09dd72a870e5d6d6fae/Samaritan.py&quot;,&quot;referrer&quot;:&quot;https://github.com/SamaritanAI/samaritanbot/tree/8c2190f0dccf59a573a9d09dd72a870e5d6d6fae&quot;,&quot;user_id&quot;:33179496}}"
+     data-hydro-click-hmac="12f9939bd27ba0f5db4ca00109a1b1d4e2756709790448a364572e425692c99b">
   <div class="Popover-message Popover-message--large Popover-message--top-left TagsearchPopover mt-1 mb-4 mx-auto Box box-shadow-large">
     <div class="TagsearchPopover-content js-tagsearch-popover-content overflow-auto" style="will-change:transform;">
     </div>
