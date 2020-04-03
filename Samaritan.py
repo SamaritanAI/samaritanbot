@@ -3,7 +3,6 @@ from discord.ext import commands
 import aiohttp
 import asyncio
 import os
-import random
 
 bot = commands.Bot(description="This my second bot. A lot of work will be going into it. None of this would be possible without you, Sebi. Thanks bro ^_^... I apologise for many of the errors you'll find here.", command_prefix=("s.", "S.", "samaritan.", "Samaritan."), pm_help=True)
 
@@ -48,6 +47,17 @@ helpcmd = bot.get_command("help")
 async def help_after(ctx):
     await ctx.send("Help has been DM'd.")
 
+@bot.command()
+async def spam(ctx, count: int, *, input: commands.clean_content):
+    """Sends spam"""
+    for i in range(count):
+        await ctx.send(input)
+        await asyncio.sleep(1)
+        if i == 500:
+            await ctx.send("Limit Reached")
+            break
+
+
 @bot.listen('on_ready')
 @bot.listen('on_connect')
 async def get_owner():
@@ -55,20 +65,5 @@ async def get_owner():
     bot.owner_id = app_info.owner.id
 
 
-	
-@bot.command()
-async def flip(ctx):
-		x = random.randint(1,3)
-		if x == 1:
-			x = "Heads"
-		else:
-			x = "Tails"
-		return x
-		
-		await ctx.send(x)
-
-	
-	
 bot.load_extension('libneko.extras.superuser')
 bot.run(os.environ.get("TOKEN"))
-
